@@ -15,7 +15,7 @@
     @endphp
 
     @foreach($Number as $Numbers )
-        <p>{{$Numbers}}</p>
+        <h3>{{$Numbers}}</h3>
     @endforeach
 
 </body>

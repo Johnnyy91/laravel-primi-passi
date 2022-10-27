@@ -7,6 +7,9 @@
     <title>LIST</title>
 </head>
 <body>
-    <h2>LIST MENU</h2>
+    <h2>MENU</h2>
+    <h2>CONTACT</h2>
+    <h2>MENU</h2>
+    <h2>CONTACT</h2>
 </body>
 </html>
