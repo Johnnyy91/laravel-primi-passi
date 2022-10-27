@@ -7,9 +7,10 @@
     <title>Helloworld</title>
 </head>
 <body>
-    <a href="{{url('/list')}}">LINK 1</a>
-    <h1>HELLO WORLD</h1>
 
+
+    <h1>HELLO WORLD</h1>
+    <a href="{{url('/list')}}">LINK 1</a>
     @php
         $Number = [1,2,4,7,8,3,4,7];
     @endphp
